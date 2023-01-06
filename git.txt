@@ -1,4 +1,5 @@
 FOSS stands for free and open source software
 Foss mec is a club in mec
 There was a session on git
+The session was good
 devadutt edited this file
